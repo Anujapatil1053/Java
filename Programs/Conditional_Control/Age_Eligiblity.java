@@ -10,7 +10,7 @@ public class Age_Eligiblity
 			
 			if( Age >= 25 )
 			{
-				System.out.println("\n You Are Eligible For Vidhansabha.");
+				System.out.println("\n You Are Eligible For Vidhansabha");
 			
 				if( Age >= 35 )
 				{
