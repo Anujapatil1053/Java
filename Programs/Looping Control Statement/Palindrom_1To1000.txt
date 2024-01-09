@@ -1,0 +1,25 @@
+public class Palindrom_1to1000
+{
+	public static void main(String args[])
+	{
+		
+		for( int i = 1; i <= 1000; i++)
+		{
+			int No = i,Rev = 0,Dig = 0,Temp = 0;
+		
+			Temp = No;
+			while(Temp > 0)
+			{
+				Dig = Temp % 10;
+				Rev = (Rev*10)+Dig;
+        			Temp  = Temp / 10;
+			}
+			if(Rev == No)
+			{
+				System.out.println(No);
+			}
+			
+		}
+		
+	}
+}
