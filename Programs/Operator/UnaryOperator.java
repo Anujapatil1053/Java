@@ -20,6 +20,7 @@ public class UnaryOperator
 
 		a = 23;
 		b = ++a;
+		
 		System.out.println("\t Preincrement");
 		System.out.println(b);
 		System.out.println(++b);
@@ -27,6 +28,7 @@ public class UnaryOperator
 		
 		a = 23;
 		b = --a;
+		
 		System.out.println("\t PosDecrement");
 		System.out.println(b);
 		System.out.println(--b);
