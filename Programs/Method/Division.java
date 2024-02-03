@@ -10,7 +10,6 @@ public class Division
 	public static void main(String[] args)
 	{
 		Division obj  = new Division();
-		
 		System.out.println(obj.div());
 	}
 }
