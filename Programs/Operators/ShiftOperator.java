@@ -12,8 +12,6 @@ public class ShiftOperator
 		int a = 40,b;
 		b = 40 >> 2;
 		System.out.println(b);
-		
-		
 			
 	}
 }
