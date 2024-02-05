@@ -15,7 +15,6 @@ public class ArithmaticOperator
 		System.out.println("\t Multiplication Of " + No1 + " * " + No2 + " = " +Mul);
 		System.out.println("\t Division Of " + No1 + " / " + No2 + " = " +Div);
 		System.out.println("\t Modulous Of " + No1 + " % " + No2 +  " = " +Mod);
-	
 	}
 
 
