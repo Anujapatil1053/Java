@@ -20,6 +20,5 @@ public class Boolean
 		
 		Bool = No1 != No2;
 		System.out.println(+ No1 + " != " + No2 + " = " + Bool);
-		
 	}
 }
