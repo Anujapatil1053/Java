@@ -1,6 +1,7 @@
 public class Division
 {
 	int a = 10, b=20;
+	
 	public int div()
 	{
 		int div = b/a;
