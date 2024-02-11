@@ -3,6 +3,7 @@ public class Arithmatic_Operations
 	int a = 10;
 	int b = 20;
 	int Add,Mul,Div;
+	
 	public void Add()
 	{
 		Add = a + b;
