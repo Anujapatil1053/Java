@@ -11,8 +11,5 @@ public class TernaryOperator
 		int c = 1,d = 2;
 		char  e = (c > d)? 'A' : 'B';
 		System.out.println(e);
-		
-		
-			
 	}
 }
