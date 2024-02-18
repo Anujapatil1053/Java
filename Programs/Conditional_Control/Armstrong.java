@@ -25,6 +25,5 @@ public class Armstrong
 		{
 			System.out.println("Given Number Is Not Armstrong Number ");
 		}
-		
 	}
 }
