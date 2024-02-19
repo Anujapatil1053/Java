@@ -12,6 +12,5 @@ public class Fibonnaci
         		No2 = No3;
         		Cnt--;
     		}
-		
 	}
 }
