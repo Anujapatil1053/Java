@@ -12,12 +12,10 @@ public class ForLoop
 		//{
 			//System.out.println("\n\t INDIA");
 		//}
-		
 		String Str = "INDIA";                   
 		for(int i = 1; i <= 10; i++)
 		{
 			System.out.println( i+ ". " +Str);
 		}
-
 	}
 }
