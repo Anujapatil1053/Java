@@ -10,9 +10,7 @@ public class Factorial
 			No--;
 			
 		}
-		
 		System.out.println(Fact);
-
 	}
 }
  
