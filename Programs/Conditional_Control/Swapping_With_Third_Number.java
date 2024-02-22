@@ -9,9 +9,8 @@ public class Swapping_With_Third_Number
 		Temp = No1; 
 		No1 = No2;
 		No2 = Temp;
+		
 		System.out.println("\n After Swapping No1 = " + No1 + ", No2 = "+ No2);
-		
-		
 	}
 }
 
