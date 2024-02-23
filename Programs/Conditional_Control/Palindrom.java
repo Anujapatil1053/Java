@@ -19,9 +19,5 @@ public class Palindrom_1to1000
 			{
 				System.out.println("Given Number Is" + No + " Is Not Palindrom" );
 			}
-
-			
-		
-		
 	}
 }
