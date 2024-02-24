@@ -19,7 +19,6 @@ public class PellNumSec
         		No2 = No3;
         		Cnt--;
     		}
-		
 	}
 }
 
