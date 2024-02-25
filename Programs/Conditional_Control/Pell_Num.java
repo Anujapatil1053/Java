@@ -11,7 +11,9 @@ public class PellNumSec
        			
         		P_No3 = P_No1 + (P_No2*2);
 			No3 = No1 + No2;
+			
 			System.out.println(No3+P_No3);
+			
        		 	P_No1 = P_No2;
         		P_No2 = P_No3;
 
