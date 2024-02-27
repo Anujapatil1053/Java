@@ -6,16 +6,15 @@ public class PellNum
 
 		System.out.println(No1);
 		System.out.println(No2);
+		
     		while(Cnt > 0)
     		{
-       			
         		No3 = No1 + (No2*2);
 			System.out.println(No3);
        		 	No1 = No2;
         		No2 = No3;
         		Cnt--;
     		}
-		
 	}
 }
 
