@@ -9,7 +9,6 @@ public class PellNumSec
 		
     		while(Cnt > 0)
     		{
-       			
         		P_No3 = P_No1 + (P_No2*2);
 			No3 = No1 + No2;
 			System.out.println(No3+P_No3);
@@ -20,7 +19,6 @@ public class PellNumSec
         		No2 = No3;
         		Cnt--;
     		}
-		
 	}
 }
 
