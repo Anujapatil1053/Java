@@ -6,6 +6,7 @@ public class PellNumSec
 
 		System.out.println(No1);
 		System.out.println(No2);
+		
     		while(Cnt > 0)
     		{
        			
