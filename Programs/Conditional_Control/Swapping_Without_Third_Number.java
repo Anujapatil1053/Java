@@ -11,4 +11,5 @@ public class Swapping_Without_Third_Number
 		System.out.println("Before Swapping = "+No1);
 		System.out.println("After Swapping = "+No2);
 	}
+	
 }
