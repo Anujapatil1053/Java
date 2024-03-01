@@ -23,7 +23,5 @@ public class Divisible_By {
 		{
 			System.out.println(" No Is Not Divisible  by 5 And  11");
 		}
-		
-		
 	}
 }
