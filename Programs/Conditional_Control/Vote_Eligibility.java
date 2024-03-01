@@ -14,6 +14,5 @@ public class Vote_Eligibility
 		{
 			System.out.println("You Are Not Eligible For Voting");
 		}
-		
 	}
 }
