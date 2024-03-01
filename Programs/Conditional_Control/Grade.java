@@ -2,8 +2,7 @@ public class Grade
 {
 	public static void main(String args[])
 	{
-
-		int Marks = 80;
+                int Marks = 80;
 		System.out.println("\n\t Marks = " +Marks);
 		
     		if(Marks >= 90)
