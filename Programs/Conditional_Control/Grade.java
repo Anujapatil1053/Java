@@ -5,6 +5,7 @@ public class Grade
 
 		int Marks = 80;
 		System.out.println("\n\t Marks = " +Marks);
+		
     		if(Marks >= 90)
     		{
         		System.out.println("\n\tGrade = ' A+'");
@@ -29,7 +30,5 @@ public class Grade
 		{
 			System.out.println("Fail");
 		}
-   		
 	}
-
 }
