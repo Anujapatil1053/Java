@@ -22,8 +22,6 @@ public class PrimeSec
 				System.out.println("\n\t It Is Not Prime Number = "+No);
 			}
 		}
-		
-		
 	}
 		
 }
