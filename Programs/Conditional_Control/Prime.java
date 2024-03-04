@@ -4,7 +4,7 @@ public class Prime
 	{
 		int No = 29, Cnt = 0;                  
 		
-		for(int i = 2; Cnt /2; i++)
+		for(int i = 2; Cnt / 2; i++)
 		{
 			if(No % Cnt == 0)
 			{
