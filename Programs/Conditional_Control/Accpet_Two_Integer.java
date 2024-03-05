@@ -25,3 +25,4 @@ public class Accpet_Two_Integer{
 		
 	}
 }
+
