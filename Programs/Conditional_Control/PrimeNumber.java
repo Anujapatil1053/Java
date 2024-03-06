@@ -19,7 +19,5 @@ public class PrimeNumber
 			{
 				System.out.println("It Is Not Prime Number");
 			}
-		
-
-	      }
+	   }
 }
