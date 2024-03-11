@@ -2,6 +2,7 @@ public class SwitchCase
 {
 	public static void main(String args[])
 	{
+		
 		String State = "Maharastra";
 
 		switch(State)
