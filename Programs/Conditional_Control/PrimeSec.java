@@ -3,6 +3,7 @@ public class PrimeSec
 	public static void main(String args[])
 	{
 		int No = 0, Cnt = 0; 
+		
            	for(No = 2; No <= 100; No++)
 		{
 			for(Cnt = 2; Cnt <= No; Cnt++)
