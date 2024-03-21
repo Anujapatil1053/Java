@@ -19,7 +19,5 @@ public class Alphabet_Or_Not {
 	 {
 		 System.out.println("Given Character Is Not Alphabet"); 
 	 }
-	 
-		
 	}
 }
