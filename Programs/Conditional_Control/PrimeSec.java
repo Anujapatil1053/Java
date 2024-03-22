@@ -11,7 +11,6 @@ public class PrimeSec
 				if(No % Cnt == 0)
 				{
 					break;
-				
 				}
 	       		}
 			if(No == Cnt)
