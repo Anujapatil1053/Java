@@ -3,6 +3,7 @@ public class Armstrong
 	public static void main(String args[])
 	{
 		int No = 1991, Dig = 0, DCnt = 0, Temp = 0,Res = 0;
+		
 		Temp = No;
 		while(Temp > 0)
 		{
