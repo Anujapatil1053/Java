@@ -10,7 +10,6 @@ public class DigitCount
 			DCnt++;
 			Temp= Temp /10; 
 		}
-		
 		System.out.println(DCnt);
 	}
 }
