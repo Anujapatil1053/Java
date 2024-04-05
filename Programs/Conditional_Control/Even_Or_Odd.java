@@ -18,7 +18,6 @@ public class Even_Or_Odd {
 		else
 		{
 			System.out.println(+ No + " Is Odd");
-
 		}
 	}		
 				
