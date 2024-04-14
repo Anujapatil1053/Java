@@ -10,7 +10,6 @@ public class DigRev
 			Rev = (Rev*10)+Rem;
         		No  = No / 10;
 		}
-		
 		System.out.println("Reverse Number = "+Rev);
 	}
 }
