@@ -5,6 +5,7 @@ public class PellNum
 		int No1 = 0,No2 = 1,No3 = 0,Cnt = 7;
 
 		System.out.println(No1);
+		
 		System.out.println(No2);
 		
     		while(Cnt > 0)
